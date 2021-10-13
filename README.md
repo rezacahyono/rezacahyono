@@ -12,8 +12,8 @@
 
 ### 📊Knowledge Language Code :
 ---
-![Anggit Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rezacahyono&theme=solarized_dark)
-![Anggit Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rezacahyono&theme=solarized_dark)
-![Anggit Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rezacahyono&theme=solarized_dark)
+![Anggit Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rezacahyono&theme=monokai)
+![Anggit Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rezacahyono&theme=monokai)
+![Anggit Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rezacahyono&theme=monokai)
 
 
