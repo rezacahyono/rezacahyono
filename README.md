@@ -1,14 +1,9 @@
-### Hi there 👋
-
 ### Hi there 👋 I'm Reza
 ---
 
-- 🔭 I’m currently working on Android Development
+- 🔭👨‍🎓 I’m currently learn on Android Development
 
 <p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rezacahyono&show_icons=true&theme=outrun"/></p>
-
-### 🏆 GitHub Profile Trophy:
----
 
 ### 📊Knowledge Language Code :
 ---
